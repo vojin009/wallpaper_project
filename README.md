@@ -1,2 +1,2 @@
 # wallpaper_project
-aplikacija za wallpapere
+stranica za skidanje wallpapera koja sadrzi mnoge kategorije visokokvalitetnih pozadina
