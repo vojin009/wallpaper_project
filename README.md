@@ -1,2 +1,2 @@
 # wallpaper_project
-stranica za skidanje wallpapera koja sadrzi mnoge kategorije visokokvalitetnih pozadina
+Stranica za skidanje __wallpapera__ koja sadrzi mnoge kategorije visokokvalitetnih pozadina
