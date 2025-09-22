@@ -1,1 +1,25 @@
-
+.start1{
+margin-top:200px;
+margin-left:150px;
+margin-bottom:50px;
+position:relative;
+font-size:64px;
+display:block;
+}
+span{
+    color:#7C4DFF;
+}
+.naslov{
+    font-size:50px;
+    display:block;
+}
+.uvod{
+    font-size:32px;
+    display:block;
+}
+.start_btn{
+    padding:15px;
+    border: 1px solid white;
+    background-color:#7C4DFF;
+    display:block;
+}
