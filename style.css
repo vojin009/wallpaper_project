@@ -23,3 +23,55 @@ span{
     background-color:#7C4DFF;
     display:block;
 }
+/* kategorije */
+.dugmicikategorije1{
+    margin-top:50px;
+}
+.nature_btn{
+    width:250px;
+    height:150px;
+    border-radius:20px;
+    padding:30px;
+    font-size:64px;
+    background-image:url("https://cdn.discordapp.com/attachments/1422291915922997322/1422304777492234391/8fbed5ce7a0a3efa8352efbf7d5fe118.png?ex=68dc300c&is=68dade8c&hm=afa1b8fbd3b25b3528880ced01e1fbfbcc91cde48271d504153b1106b4649f14&");
+}
+.fantasy_btn{
+    width:250px;
+    height:150px;
+    border-radius:20px;
+    padding:30px;
+    font-size:64px;
+    background-image:url("https://cdn.discordapp.com/attachments/1422291915922997322/1422304427288694824/c9b74639a8cdc3552351bdf8f3e5f381.png?ex=68dc2fb8&is=68dade38&hm=5a8f159a783f004c0bba66153d05f23a664ef00a51cf4184f26174254b4ec806&");
+}
+.animals_btn{
+    width:250px;
+    height:150px;
+    border-radius:20px;
+    padding:30px;
+    font-size:64px;
+    background-image:url("https://www.google.com/imgres?q=animal%20picture&imgurl=https%3A%2F%2Fcdn.britannica.com%2F94%2F494-050-A674AD3A%2FFallow-deer-dama-dama.jpg&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fanimal&docid=rhriE1mG9-XjaM&tbnid=Lqc1U5nq_Ll_pM&vet=12ahUKEwjpmrub2v6PAxUdhv0HHZJ0CPIQM3oECBsQAA..i&w=1600&h=1153&hcb=2&ved=2ahUKEwjpmrub2v6PAxUdhv0HHZJ0CPIQM3oECBsQAA");
+}
+.anime_btn{
+    width:250px;
+    height:150px;
+    border-radius:20px;
+    padding:30px;
+    font-size:64px;
+    background-image:url("https://images-ext-1.discordapp.net/external/yvBL-w_MtIb73TxaInQ2ZaZnJHtHD6vShVYE1bzTVd4/https/i.pinimg.com/736x/d3/c8/76/d3c87696c50aa747a0966b3f5dcb056b.jpg?format=webp");
+}
+.city_btn{
+    width:250px;
+    height:150px;
+    border-radius:20px;
+    padding:30px;
+    font-size:64px;
+    background-image:url("https://i.pinimg.com/1200x/fc/02/64/fc026433a20db53bc4447d4e41f8f830.jpg");
+}
+.cars_btn{
+    width:250px;
+    height:150px;
+    border-radius:20px;
+    padding:30px;
+    font-size:64px;
+    background-image:url("https://images-ext-1.discordapp.net/external/mWDJqeNv0W_WqunpKSwUdF3WeOY4rqo5OB3EJn0ygZw/https/i.pinimg.com/1200x/e5/3e/c9/e53ec9c8d59d4c8d1079708195fe8a3c.jpg?format=webp");
+}
