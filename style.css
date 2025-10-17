@@ -93,7 +93,6 @@ body{
     background-color:#1E1E1E;
     box-sizing: border-box;
 }
-/* kategorije */
 .dugmicikategorije1{
     display:flex;
     flex-direction:row;
@@ -102,6 +101,7 @@ body{
     margin-top:100px;
     margin-bottom:100px;
     text-align:center;
+    text-decoration: none; 
 }
 .nature_btn{
     cursor: pointer;
@@ -112,7 +112,8 @@ body{
     background-image:url("https://www.widerangegalleries.com/images/xl/20191026-Sorapiss-Gold.jpg");
     background-size: cover;
 background-position: center;
-
+text-decoration: none; 
+color:black;
 }
 .fantasy_btn{
     cursor: pointer;
@@ -123,7 +124,8 @@ background-position: center;
     background-image:url("https://img.goodfon.com/wallpaper/big/d/1f/mountain-fantasy-artwork-wizard-fantasy.webp");
     background-size: cover;
 background-position: center;
-
+text-decoration: none; 
+color:black;
 }
 .animals_btn{
     cursor: pointer;
@@ -134,7 +136,8 @@ background-position: center;
     background-image:url("https://c02.purpledshub.com/uploads/sites/62/2021/08/Otters-OTTSEA_038002-8c7dda4.jpg?webp=1&w=1200");
     background-size: cover;
 background-position: center;
-
+text-decoration: none;
+color:black; 
 }
 
 .dugmicikategorija2{
@@ -144,6 +147,8 @@ background-position: center;
     font-size:50px;
     margin-bottom:100px;
     text-align:center;
+    text-decoration: none; 
+    color:black;
 }
 .anime_btn{
     cursor: pointer;
@@ -154,7 +159,8 @@ background-position: center;
     background-image:url("https://images-ext-1.discordapp.net/external/yvBL-w_MtIb73TxaInQ2ZaZnJHtHD6vShVYE1bzTVd4/https/i.pinimg.com/736x/d3/c8/76/d3c87696c50aa747a0966b3f5dcb056b.jpg?format=webp");
     background-size: cover;
 background-position: center;
-
+text-decoration: none; 
+color:black;
 }
 .city_btn{
     cursor: pointer;
@@ -165,7 +171,8 @@ background-position: center;
     background-image:url("https://i.pinimg.com/1200x/fc/02/64/fc026433a20db53bc4447d4e41f8f830.jpg");
     background-size: cover;
 background-position: center;
-
+text-decoration: none;
+color:black;
 }
 .cars_btn{
     cursor: pointer;
@@ -173,9 +180,11 @@ background-position: center;
     height:150px;
     border-radius:20px;
     padding:30px;
-    background-image:url("https://images-ext-1.discordapp.net/external/mWDJqeNv0W_WqunpKSwUdF3WeOY4rqo5OB3EJn0ygZw/https/i.pinimg.com/1200x/e5/3e/c9/e53ec9c8d59d4c8d1079708195fe8a3c.jpg?format=webp");
+    background-image:url("https://www.shutterstock.com/image-photo/car-drive-on-autumn-road-600nw-2499329075.jpg");
     background-size: cover;
 background-position: center;
+color: black;
+text-decoration: none;
 
 }
 .nature_btn:hover,
@@ -204,7 +213,7 @@ background-position: center;
     display:flex;
     flex-direction:row;
     padding:6px;
-    background-color:#616161;
+    background-color:#2E2E2E;
     color:#7C4DFF;
     justify-content:space-evenly;
     font-size:40px;
@@ -217,3 +226,670 @@ background-position: center;
 .madeby{
 padding-top:50px;
 }
+.nature_btn a {
+  color: black;
+  text-decoration: none;
+}
+.fantasy_btn a {
+  color: black;
+  text-decoration: none;
+}
+.animals_btn a {
+  color: black;
+  text-decoration: none;
+}
+.anime_btn a {
+  color: black;
+  text-decoration: none;
+}
+.city_btn a {
+  color: black;
+  text-decoration: none;
+}
+.cars_btn a {
+  color: black;
+  text-decoration: none;
+}
+
+.dugmicikategorije3{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-top:100px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.nature_pic1{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://static.vecteezy.com/system/resources/thumbnails/049/855/347/small_2x/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.nature_pic2{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.nature_pic3{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://wallpapers.com/images/featured/1920-x-1080-nature-desktop-7uzi3zf1qeoosb63.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+
+.dugmicikategorija4{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.nature_pic4{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://t4.ftcdn.net/jpg/02/01/78/01/360_F_201780104_hetXS26W8alnsbDKbpnr4sVizJfiO12w.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.nature_pic5{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://cdn.pixabay.com/photo/2018/11/09/08/08/forest-3804001_640.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.nature_pic6{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images8.alphacoders.com/449/thumb-1920-449444.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.nature_pic1:hover,
+.nature_pic2:hover,
+.nature_pic3:hover,
+.nature_pic4:hover,
+.nature_pic5:hover,
+.nature_pic6:hover {
+transform: scale(1.05);
+transition-duration: 0.3s;
+transition-property:ease;
+box-shadow: 5px 5px 5px 5px #b6b6b6;
+}
+.nature_pic1:active,
+.nature_pic2:active,
+.nature_pic3:active,
+.nature_pic4:active,
+.nature_pic5:active,
+.nature_pic6:active{
+transform: scale(1.0);
+transition-duration: 1s;
+transition-property:ease;
+box-shadow:none;
+}
+/*fantasy*/
+.dugmicikategorije5{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-top:100px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.fantasy_pic1{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images2.alphacoders.com/130/1306136.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.fantasy_pic2{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://i.pinimg.com/736x/9e/9c/99/9e9c99eb329aa1f93c08e10447afc6c3.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.fantasy_pic3{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://wallpapers.com/images/featured/fantasy-05e34f7bfyhne5vg.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+
+.dugmicikategorija6{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.fantasy_pic4{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://getwallpapers.com/wallpaper/full/e/c/9/309238.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.fantasy_pic5{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://www.pixelstalk.net/wp-content/uploads/images6/Dark-Fantasy-Wallpaper-HD.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.fantasy_pic6{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://wallpapercat.com/w/full/f/8/b/2147689-3840x2160-desktop-4k-fantasy-art-background-photo.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.fantasy_pic1:hover,
+.fantasy_pic2:hover,
+.fantasy_pic3:hover,
+.fantasy_pic4:hover,
+.fantasy_pic5:hover,
+.fantasy_pic6:hover {
+transform: scale(1.05);
+transition-duration: 0.3s;
+transition-property:ease;
+box-shadow: 5px 5px 5px 5px #b6b6b6;
+}
+.fantasy_pic1:active,
+.fantasy_pic2:active,
+.fantasy_pic3:active,
+.fantasy_pic4:active,
+.fantasy_pic5:active,
+.fantasy_pic6:active{
+transform: scale(1.0);
+transition-duration: 1s;
+transition-property:ease;
+box-shadow:none;
+}
+/*animals*/
+.dugmicikategorije7{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-top:100px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.animals_pic1{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://www.shutterstock.com/image-photo/cute-red-fox-vulpes-fall-600nw-1379127074.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.animals_pic2{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://cdn.visualwilderness.com/wp-content/uploads/2020/03/Giraffe-Scale.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.animals_pic3{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://i.pinimg.com/originals/1e/4c/60/1e4c60ccf86b14dbd15c5ac3e4e281a9.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+
+.dugmicikategorija8{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.animals_pic4{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://i.pinimg.com/originals/af/59/a1/af59a1e3b685ea306d966594333c9a86.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.animals_pic5{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images.pexels.com/photos/2862070/pexels-photo-2862070.jpeg?cs=srgb&dl=pexels-hendrikcornelissen-2862070.jpg&fm=jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.animals_pic6{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://www.shutterstock.com/image-photo/giraffes-tsavo-east-west-amboseli-600nw-1885438051.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.animals_pic1:hover,
+.animals_pic2:hover,
+.animals_pic3:hover,
+.animals_pic4:hover,
+.animals_pic5:hover,
+.animals_pic6:hover {
+transform: scale(1.05);
+transition-duration: 0.3s;
+transition-property:ease;
+box-shadow: 5px 5px 5px 5px #b6b6b6;
+}
+.animals_pic1:active,
+.animals_pic2:active,
+.animals_pic3:active,
+.animals_pic4:active,
+.animals_pic5:active,
+.animals_pic6:active{
+transform: scale(1.0);
+transition-duration: 1s;
+transition-property:ease;
+box-shadow:none;
+}
+/*anime*/
+.dugmicikategorije9{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-top:100px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.anime_pic1{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://i.pinimg.com/736x/71/50/02/715002fab6989d85f3d08591e15fa3db.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.anime_pic2{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images2.alphacoders.com/516/516664.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.anime_pic3{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://getwallpapers.com/wallpaper/full/6/b/7/493445.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+
+.dugmicikategorija10{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.anime_pic4{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://wallpaper-house.com/data/out/9/wallpaper2you_340738.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.anime_pic5{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://i.pinimg.com/736x/f0/9c/b4/f09cb4dde9d2940bc20dcab1855f4ccf.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.anime_pic6{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://c4.wallpaperflare.com/wallpaper/869/512/849/anime-demon-slayer-kimetsu-no-yaiba-zenitsu-agatsuma-hd-wallpaper-preview.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.anime_pic1:hover,
+.anime_pic2:hover,
+.anime_pic3:hover,
+.anime_pic4:hover,
+.anime_pic5:hover,
+.anime_pic6:hover {
+transform: scale(1.05);
+transition-duration: 0.3s;
+transition-property:ease;
+box-shadow: 5px 5px 5px 5px #b6b6b6;
+}
+.anime_pic1:active,
+.anime_pic2:active,
+.anime_pic3:active,
+.anime_pic4:active,
+.anime_pic5:active,
+.anime_pic6:active{
+transform: scale(1.0);
+transition-duration: 1s;
+transition-property:ease;
+box-shadow:none;
+}
+/*city*/
+.dugmicikategorije11{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-top:100px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.city_pic1{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://wallpaperset.com/w/full/2/0/5/64834.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.city_pic2{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://getwallpapers.com/wallpaper/full/1/6/e/999465-new-city-desktop-backgrounds-3840x2160-for-phone.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.city_pic3{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://img.freepik.com/free-photo/view-urban-city-night_23-2150840697.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+
+.dugmicikategorija12{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.city_pic4{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://wallpapercat.com/w/full/a/0/d/1163398-3840x2160-desktop-4k-city-background-image.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.city_pic5{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://getwallpapers.com/wallpaper/full/0/a/b/1154971-city-wallpapers-for-desktop-1920x1080-cell-phone.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.city_pic6{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg?cs=srgb&dl=pexels-peng-liu-45946-169647.jpg&fm=jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.city_pic1:hover,
+.city_pic2:hover,
+.city_pic3:hover,
+.city_pic4:hover,
+.city_pic5:hover,
+.city_pic6:hover {
+transform: scale(1.05);
+transition-duration: 0.3s;
+transition-property:ease;
+box-shadow: 5px 5px 5px 5px #b6b6b6;
+}
+.city_pic1:active,
+.city_pic2:active,
+.city_pic3:active,
+.city_pic4:active,
+.city_pic5:active,
+.city_pic6:active{
+transform: scale(1.0);
+transition-duration: 1s;
+transition-property:ease;
+box-shadow:none;
+}
+/*cars*/
+.dugmicikategorije13{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-top:100px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.cars_pic1{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images.wallpapershq.com/wallpapers/8238/thumbnail_350x196.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.cars_pic2{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?cs=srgb&dl=pexels-mikebirdy-112460.jpg&fm=jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.cars_pic3{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://www.bmw-m.com/content/dam/bmw/marketBMW_M/www_bmw-m_com/topics/magazine-article-pool/2025/wallpaper/m-wallpaper/2025-30-csl/BMW_M_Wallpaper_3.0_CSL_driving_Desktop_16x9_4K.jpg.asset.1736439397218.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+
+.dugmicikategorija14{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  font-size:50px;
+  margin-bottom:100px;
+  text-align:center;
+}
+.cars_pic4{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images.pexels.com/photos/210143/pexels-photo-210143.jpeg?cs=srgb&dl=pexels-pixabay-210143.jpg&fm=jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.cars_pic5{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://static.vecteezy.com/system/resources/thumbnails/055/672/799/small/red-modern-red-sport-car-driving-fast-on-scenic-road-in-forest-at-sunset-automotive-background-tuning-template-auto-transport-photo.jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.cars_pic6{
+  cursor: pointer;
+  width:250px;
+  height:150px;
+  border-radius:20px;
+  padding:30px;
+  background-image:url("https://images.pexels.com/photos/31192020/pexels-photo-31192020.jpeg?cs=srgb&dl=pexels-quentin-martinez-2147503099-31192020.jpg&fm=jpg");
+  background-size: cover;
+background-position: center;
+
+}
+.cars_pic1:hover,
+.cars_pic2:hover,
+.cars_pic3:hover,
+.cars_pic4:hover,
+.cars_pic5:hover,
+.cars_pic6:hover {
+transform: scale(1.05);
+transition-duration: 0.3s;
+transition-property:ease;
+box-shadow: 5px 5px 5px 5px #b6b6b6;
+}
+.cars_pic1:active,
+.cars_pic2:active,
+.cars_pic3:active,
+.cars_pic4:active,
+.cars_pic5:active,
+.cars_pic6:active{
+transform: scale(1.0);
+transition-duration: 1s;
+transition-property:ease;
+box-shadow:none;
+}
+
