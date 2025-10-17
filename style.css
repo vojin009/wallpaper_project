@@ -93,6 +93,7 @@ body{
     background-color:#1E1E1E;
     box-sizing: border-box;
 }
+/* kategorije */
 .dugmicikategorije1{
     display:flex;
     flex-direction:row;
@@ -225,6 +226,7 @@ text-decoration: none;
 }
 .madeby{
 padding-top:50px;
+font-size:20px;
 }
 .nature_btn a {
   color: black;
@@ -891,5 +893,49 @@ transform: scale(1.0);
 transition-duration: 1s;
 transition-property:ease;
 box-shadow:none;
+}
+.naslov1{
+  background: url("hero-bg.png") no-repeat center center/cover;
+  text-align:center;
+  font-size:42px;
+  padding:15px;
+  color:white;
+}
+.naslov2{
+  background: url("hero-bg.png") no-repeat center center/cover;
+  text-align:center;
+  font-size:42px;
+  padding:15px;
+  color:white;
+}
+.naslov3{
+  background: url("hero-bg.png") no-repeat center center/cover;
+  text-align:center;
+  font-size:42px;
+  padding:15px;
+  color:white;
+}
+.naslov4{
+  background: url("hero-bg.png") no-repeat center center/cover;
+  text-align:center;
+  font-size:42px;
+  padding:15px;
+  color:white;
+}
+.naslov5{
+  background: url("hero-bg.png") no-repeat center center/cover;
+  text-align:center;
+  font-size:42px;
+  padding:15px;
+  color:white;
+}
+.naslov6{
+  
+  text-align:center;
+  font-size:42px;
+  padding:15px;
+  color:white;
+  background: url("hero-bg.png") no-repeat center center/cover;
+}
 }
 
